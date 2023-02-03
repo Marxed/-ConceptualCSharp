@@ -1,0 +1,12 @@
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\bin\Debug\net7.0\Library.deps.json
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\bin\Debug\net7.0\Library.dll
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\bin\Debug\net7.0\Library.pdb
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.dll
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\refint\Library.dll
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\Library.pdb
+C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\Library\Library\obj\Debug\net7.0\ref\Library.dll
