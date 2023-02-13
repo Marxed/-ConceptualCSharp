@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj",
+      "projectPath": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\marxe\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\Library\\Library\\obj\\",
+      "outputPath": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\Library\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marxe\\AppData\\Roaming\\NuGet\\NuGet.Config",

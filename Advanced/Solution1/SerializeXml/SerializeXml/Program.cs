@@ -10,7 +10,7 @@ Users user = new Users()
 
 XmlSerializer serializer = new XmlSerializer(typeof(Users)); 
 
-StreamWriter stream = new StreamWriter(@"C:\CodeStudy\ConceptualCsharp\Advanced\Solution1\files\serializer.xml"); 
+StreamWriter stream = new StreamWriter(@"C:\CodeStudy\ConceptualCsharp\ConceptualCSharp\Advanced\Solution1\files\serializer.xml"); 
 
 
 serializer.Serialize(stream, user); 

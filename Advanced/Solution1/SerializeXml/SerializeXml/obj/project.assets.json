@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\SerializeXml\\SerializeXml\\SerializeXml.csproj",
+      "projectUniqueName": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\SerializeXml\\SerializeXml\\SerializeXml.csproj",
       "projectName": "SerializeXml",
-      "projectPath": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\SerializeXml\\SerializeXml\\SerializeXml.csproj",
+      "projectPath": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\SerializeXml\\SerializeXml\\SerializeXml.csproj",
       "packagesPath": "C:\\Users\\marxe\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\SerializeXml\\SerializeXml\\obj\\",
+      "outputPath": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\SerializeXml\\SerializeXml\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marxe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj": {
-              "projectPath": "C:\\CodeStudy\\ConceptualCsharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj"
+            "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj": {
+              "projectPath": "C:\\CodeStudy\\ConceptualCsharp\\ConceptualCSharp\\Advanced\\Solution1\\Library\\Library\\Library.csproj"
             }
           }
         }
