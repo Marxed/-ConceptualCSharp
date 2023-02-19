@@ -4,8 +4,8 @@ using System.Xml.Serialization;
 
 Users user = new Users() 
 {
-    Name="Josuke",
-    Stand="Star Platinum" 
+    Name= "Josuke Higashikata",
+    Stand= "Shining Diamond"
 };
 
 XmlSerializer serializer = new XmlSerializer(typeof(Users)); 
