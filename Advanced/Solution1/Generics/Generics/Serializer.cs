@@ -21,7 +21,13 @@ namespace Generics
 
         }
         public static T Deserializer<T>()
-        { 
+        {
+            string jsonString = File.ReadAllText(@"C:\CodeStudy\ConceptualCsharp\ConceptualCSharp\Advanced\Solution1\files\" + typeof(T).Name + ".json");
+
+            T? obj = JsonSerializer.Deserialize<T>(jsonString);
+
+            return obj;
+
         }
     }
 }

@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerializeXml", "SerializeXm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeserilizerXml", "DeserializeXml\DeserilizerXml\DeserilizerXml.csproj", "{73557398-9ACE-4CAD-8705-8BAEB866450C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeJSON", "SerielizeJSON\SerializeJSON\SerializeJSON.csproj", "{E0D4F4AA-7A36-4480-828E-D4826673F360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerializeJSON", "SerielizeJSON\SerializeJSON\SerializeJSON.csproj", "{E0D4F4AA-7A36-4480-828E-D4826673F360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializeJSON", "DeserializeJSON\DeserializeJSON\DeserializeJSON.csproj", "{4A1AF5A3-D1B9-47A6-9934-74C385A27C6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeserializeJSON", "DeserializeJSON\DeserializeJSON\DeserializeJSON.csproj", "{4A1AF5A3-D1B9-47A6-9934-74C385A27C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics\Generics.csproj", "{0A2C09AF-E640-44CE-BB86-CC3C643A998C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4A1AF5A3-D1B9-47A6-9934-74C385A27C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A1AF5A3-D1B9-47A6-9934-74C385A27C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A1AF5A3-D1B9-47A6-9934-74C385A27C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
