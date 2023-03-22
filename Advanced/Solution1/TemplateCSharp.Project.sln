@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerializeJSON", "SerielizeJ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeserializeJSON", "DeserializeJSON\DeserializeJSON\DeserializeJSON.csproj", "{4A1AF5A3-D1B9-47A6-9934-74C385A27C6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics\Generics.csproj", "{0A2C09AF-E640-44CE-BB86-CC3C643A998C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics\Generics.csproj", "{0A2C09AF-E640-44CE-BB86-CC3C643A998C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDinamic", "Var\VarDinamic\VarDinamic.csproj", "{A1D498F8-1800-44EF-BE6D-5E62D7C22D66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2C09AF-E640-44CE-BB86-CC3C643A998C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D498F8-1800-44EF-BE6D-5E62D7C22D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D498F8-1800-44EF-BE6D-5E62D7C22D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D498F8-1800-44EF-BE6D-5E62D7C22D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D498F8-1800-44EF-BE6D-5E62D7C22D66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
